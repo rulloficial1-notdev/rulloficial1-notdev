@@ -1,8 +1,8 @@
 
 <div align="center">
   
-<!-- LOGO PROFIL -->
-<img src="https://z-cdn-media.chatglm.cn/files/991f301c-496d-4992-b8e1-e7ead71a6e35.jpg?auth_key=1888351256-1f3b19f45ac64dc8a686e380174f0a85-0-1614585270e35e124a43e29fc82e5aca" width="160" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 15px rgba(122, 162, 247, 0.3); margin-bottom: 15px;" alt="Rull Not Dev Logo" />
+<!-- LOGO PROFIL (Diperbaiki: Glow Neon Cyberpunk) -->
+<img src="https://z-cdn-media.chatglm.cn/files/991f301c-496d-4992-b8e1-e7ead71a6e35.jpg?auth_key=1888351256-1f3b19f45ac64dc8a686e380174f0a85-0-1614585270e35e124a43e29fc82e5aca" width="180" style="border-radius: 50%; border: 3px solid #7aa2f7; box-shadow: 0 0 5px #7aa2f7, 0 0 25px rgba(122, 162, 247, 0.5); margin-bottom: 25px; transition: transform 0.3s ease;" alt="Rull Not Dev Logo" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rulloficial1-notdev">
@@ -48,3 +48,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=120&section=footer" width="100%" />
 </div>
+2. **Efek Neon Glow (Box-Shadow)**: Menggunakan kombinasi `0 0 5px #7aa2f7` (glow dalam) dan `0 0 25px rgba(...)` (glow luar) sehingga seakan-akan logo menyala dengan aura biru muda khas *cyberpunk/tokyo night*.
+3. **Border Tipis**: Mengubah ketebalan border dari `4px` jadi `3px` agar tidak menutupi gambar, tapi tetap memberikan kesan "frame" yang tajam (sharp).
+4. **Margin Bawah**: Diperbesar ke `25px` agar ada ruang napas (white space) yang elegan antara logo dan teks animasi *typing*.
