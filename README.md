@@ -1,9 +1,6 @@
 
 
 <div align="center">
-  
-<!-- LOGO PROFIL (Ganti './logo.png' dengan nama file gambar Anda) -->
-<img src="https://files.catbox.moe/uwx0k6.jpg" width="180" style="border-radius: 50%; border: 3px solid #7aa2f7; box-shadow: 0 0 5px #7aa2f7, 0 0 25px rgba(122, 162, 247, 0.5); margin-bottom: 25px; filter: drop-shadow(0px 0px 10px rgba(122, 162, 247, 0.4));" alt="Rull Not Dev Logo" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rulloficial1-notdev">
