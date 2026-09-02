@@ -2,7 +2,7 @@
 <div align="center">
   
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=220&section=header&text=RULL%20NOT%20DEV&fontSize=75&fontColor=7aa2f7&fontAlignY=35&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=60&descSize=18&descColor=a9b1d6&animation=fadeIn" width="100%" />
+<img src="" />
 
 <br/>
 
