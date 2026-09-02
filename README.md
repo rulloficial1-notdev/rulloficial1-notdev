@@ -1,4 +1,3 @@
-
 <div align="center">
   
 <!-- LOGO PROFIL (Diperbaiki: Glow Neon Cyberpunk) -->
@@ -48,6 +47,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=120&section=footer" width="100%" />
 </div>
-2. **Efek Neon Glow (Box-Shadow)**: Menggunakan kombinasi `0 0 5px #7aa2f7` (glow dalam) dan `0 0 25px rgba(...)` (glow luar) sehingga seakan-akan logo menyala dengan aura biru muda khas *cyberpunk/tokyo night*.
-3. **Border Tipis**: Mengubah ketebalan border dari `4px` jadi `3px` agar tidak menutupi gambar, tapi tetap memberikan kesan "frame" yang tajam (sharp).
-4. **Margin Bawah**: Diperbesar ke `25px` agar ada ruang napas (white space) yang elegan antara logo dan teks animasi *typing*.
