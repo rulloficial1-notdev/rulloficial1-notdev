@@ -1,33 +1,37 @@
 
 <div align="center">
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=120&section=header&text=Hi,%20I'm%20Rull!&fontSize=45&fontColor=e2e8f0&fontAlignY=35&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
-
-  <br/>
-
-  <!-- AESTHETIC GIF -->
-  <img src="https://media1.tenor.com/m/hjQ2Js1lHvEAAAAC/coding-hacker.gif" width="350" alt="Dark Coding GIF" />
-
-  <h1>👻 RULL NOT DEV</h1>
-  <h3>Frontend & Mobile Developer | Industrial Maintenance System Specialist</h3>
-
-  <br/>
-
-  <!-- SOCIAL LINKS -->
-  <a href="https://www.linkedin.com/in/rulloficial1-notdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rulloficial1-notdev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+  
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=220&section=header&text=RULL%20NOT%20DEV&fontSize=75&fontColor=7aa2f7&fontAlignY=35&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=60&descSize=18&descColor=a9b1d6&animation=fadeIn" width="100%" />
 
 <br/>
 
+<!-- LOGO PROFIL -->
+<img src="https://z-cdn-media.chatglm.cn/files/991f301c-496d-4992-b8e1-e7ead71a6e35.jpg?auth_key=1888351256-1f3b19f45ac64dc8a686e380174f0a85-0-1614585270e35e124a43e29fc82e5aca" width="160" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 15px rgba(122, 162, 247, 0.3); margin-bottom: 15px;" alt="Rull Not Dev Logo" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/rulloficial1-notdev">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=440&height=50&lines=Industrial+Maintenance+System+Specialist;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind;Flutter+%E2%80%A2+Dart+%E2%80%A2+TypeScript" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/rulloficial1-notdev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rulloficial1-notdev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
 ### 👨‍💻 About Me
+
 - 🌱 Fokus mendesain antarmuka web yang *clean*, modern, dan responsif menggunakan ekosistem **React** & **Next.js**.
 - 📱 Membangun aplikasi mobile cross-platform yang *seamless* dan performant dengan **Flutter** & **Dart**.
 - 🏭 Mengkhususkan diri dalam pengembangan sistem **Industrial Maintenance** yang reliable dan terstruktur.
@@ -35,36 +39,29 @@
 
 <br/>
 
-#### Web & Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/>
-</p>
+### 🛠️ Tech Stack
 
-#### Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,dart,flutter,js,html,css" alt="Tech Stack" />
 </p>
 
 <br/>
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/rulloficial1-notdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=rulloficial1-notdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rulloficial1-notdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=9ece6a&text_color=c0caf5" height="170" alt="GitHub Stats" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/rulloficial1-notdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rulloficial1-notdev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" height="165" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rulloficial1-notdev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=9ece6a&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5" height="170" alt="GitHub Streak" />
   </a>
-  <br/>
+</div>
+<br/>
+<div align="center">
   <a href="https://github.com/rulloficial1-notdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulloficial1-notdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulloficial1-notdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" height="170" alt="Top Languages" />
   </a>
 </div>
 
@@ -75,6 +72,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=120&section=footer" width="100%" />
 </div>
-```
