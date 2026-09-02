@@ -1,6 +1,6 @@
 
 <!-- LOGO PROFIL -->
-<img src="https://media1.tenor.com/m/IGpnCm48MPoAAAAC/eye-twitch-anger.gif" width="160" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 15px rgba(122, 162, 247, 0.3); margin-bottom: 15px;" alt="Rull Not Dev Logo" />
+<img src="https://files.catbox.moe/uwx0k6.jpg" width="160" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 15px rgba(122, 162, 247, 0.3); margin-bottom: 15px;" alt="Rull Not Dev Logo" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rulloficial1-notdev">
