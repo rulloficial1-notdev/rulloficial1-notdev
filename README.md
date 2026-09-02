@@ -18,19 +18,6 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,dart,flutter,js,html,css" alt="Tech Stack" />
-</p>
-
-<div align="center">
-  <sub><i>Dedicated to building clean, modern, and scalable applications.</i></sub>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=120&section=footer" width="100%" />
-</div>
-
 #### Mobile & Native Systems
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,androidstudio,cmake,unity" />
@@ -54,3 +41,17 @@
 <div align="center">
   <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
 </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,dart,flutter,js,html,css" alt="Tech Stack" />
+</p>
+
+<div align="center">
+  <sub><i>Dedicated to building clean, modern, and scalable applications.</i></sub>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=120&section=footer" width="100%" />
+</div>
+
+
