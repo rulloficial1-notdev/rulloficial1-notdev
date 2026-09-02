@@ -1,7 +1,9 @@
+
+
 <div align="center">
   
-<!-- LOGO PROFIL (Diperbaiki: Glow Neon Cyberpunk) -->
-<img src="https://z-cdn-media.chatglm.cn/files/991f301c-496d-4992-b8e1-e7ead71a6e35.jpg?auth_key=1888351256-1f3b19f45ac64dc8a686e380174f0a85-0-1614585270e35e124a43e29fc82e5aca" width="180" style="border-radius: 50%; border: 3px solid #7aa2f7; box-shadow: 0 0 5px #7aa2f7, 0 0 25px rgba(122, 162, 247, 0.5); margin-bottom: 25px; transition: transform 0.3s ease;" alt="Rull Not Dev Logo" />
+<!-- LOGO PROFIL (Ganti './logo.png' dengan nama file gambar Anda) -->
+<img src="./logo.png" width="180" style="border-radius: 50%; border: 3px solid #7aa2f7; box-shadow: 0 0 5px #7aa2f7, 0 0 25px rgba(122, 162, 247, 0.5); margin-bottom: 25px; filter: drop-shadow(0px 0px 10px rgba(122, 162, 247, 0.4));" alt="Rull Not Dev Logo" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rulloficial1-notdev">
