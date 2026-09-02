@@ -1,11 +1,6 @@
 
 <div align="center">
   
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=220&section=header&text=RULL%20NOT%20DEV&fontSize=75&fontColor=7aa2f7&fontAlignY=35&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=60&descSize=18&descColor=a9b1d6&animation=fadeIn" width="100%" />
-
-<br/>
-
 <!-- LOGO PROFIL -->
 <img src="https://z-cdn-media.chatglm.cn/files/991f301c-496d-4992-b8e1-e7ead71a6e35.jpg?auth_key=1888351256-1f3b19f45ac64dc8a686e380174f0a85-0-1614585270e35e124a43e29fc82e5aca" width="160" style="border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 0 15px rgba(122, 162, 247, 0.3); margin-bottom: 15px;" alt="Rull Not Dev Logo" />
 
