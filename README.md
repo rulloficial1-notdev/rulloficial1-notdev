@@ -40,27 +40,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,dart,flutter,js,html,css" alt="Tech Stack" />
 </p>
 
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/rulloficial1-notdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=rulloficial1-notdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=9ece6a&text_color=c0caf5" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rulloficial1-notdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rulloficial1-notdev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=9ece6a&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=c0caf5" height="170" alt="GitHub Streak" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/rulloficial1-notdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulloficial1-notdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" height="170" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
 <div align="center">
   <sub><i>Dedicated to building clean, modern, and scalable applications.</i></sub>
 </div>
