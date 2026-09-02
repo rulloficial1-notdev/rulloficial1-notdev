@@ -31,4 +31,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=120&section=footer" width="100%" />
 </div>
 
+#### Mobile & Native Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,androidstudio,cmake,unity" />
+</p>
 
+#### Web Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,laravel,vite" />
+</p>
+
+#### Backend, Automation & Security Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,bash,cloudflare,bots,github,py" />
+</p>
+
+#### Database, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git" />
+</p>
+
+<div align="center">
+  <sub><i>Dedicated to building awesome open-source projects, APIs & Android automation tools.</i></sub>
+</div>
